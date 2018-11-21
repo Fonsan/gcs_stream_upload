@@ -6,6 +6,7 @@ gem 'google-cloud-storage', '1.15.0'
 gem 'google-api-client', '0.25.0'
 
 group :test, :development do
+  gem 'rake'
   gem 'rspec'
 end
 

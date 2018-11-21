@@ -43,6 +43,7 @@ GEM
     multipart-post (2.0.0)
     os (1.0.0)
     public_suffix (3.0.3)
+    rake (12.3.1)
     representable (3.0.4)
       declarative (< 0.1.0)
       declarative-option (< 0.2.0)
@@ -74,6 +75,7 @@ PLATFORMS
 DEPENDENCIES
   google-api-client (= 0.25.0)
   google-cloud-storage (= 1.15.0)
+  rake
   rspec
 
 BUNDLED WITH
