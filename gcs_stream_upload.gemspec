@@ -5,7 +5,7 @@ require "gcs_stream_upload/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "gcs_stream_upload"
-  spec.version       = GcsStreamUpload::VERSION
+  spec.version       = GCSStreamUpload::VERSION
   spec.authors       = ["Fonsan"]
   spec.email         = ["fonsan@gmail.com"]
 
